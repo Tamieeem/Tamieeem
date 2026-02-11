@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Tamieeem
-- 👀 I’m interested in Webapps
-- 🌱 I’m currently learning Python Framework
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Backend
+- 🌱 I’m currently learning Python Frameworks
 - 😄 Pronouns: Tamim
-- ⚡ Fun fact: 
+
 
 <!---
 Tamieeem/Tamieeem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
