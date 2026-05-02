@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tamieeem
 - 👀 I’m interested in Backend
-- 🌱 I’m currently learning Python Frameworks
+- 🌱 I’m currently learning Python Frameworks and JS.
 - 😄 Pronouns: Tamim
 
 
